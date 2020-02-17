@@ -29,6 +29,7 @@
     slug: Torino-Scala-Programming-Big-Data-Meetup
 
 - title: CNCF Turin
+  slug: cncf-turin
   img: cncf.png
   description: Meetup dedicato a cloud computing e tools parte della Cloud Native Computing Foundation come Kubernetes, Opentracing, containerd, Envoy...
   url: https://devcampy.com
@@ -52,6 +53,7 @@
     slug: coderdojo-torino2-8085500065
 
 - title: Coding Gym Torino
+  slug: coding-gym-torino
   img: codinggym.png
   description: Una palestra per allenarsi risolvendo in coppia esercizi di programmazione discutendo della propria soluzione con gli altri partecipanti.
   url: https://coding-gym.org/locations/turin/
@@ -152,6 +154,7 @@
     slug: Mozilla-Torino
 
 - title: Python Torino
+  slug: python-torino
   img: pyto.png
   description: Meetup per sviluppatrici, sviluppatori e curiosi su Python a Torino e dintorni.
   url: https://www.meetup.com/it-IT/Python-Torino/

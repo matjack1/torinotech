@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.0"
   gem "jekyll-assets"
   gem "bulma-sass"
+  gem "jekyll-datapage-generator"
 end
 
 group :development do

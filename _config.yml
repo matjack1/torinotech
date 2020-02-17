@@ -30,6 +30,16 @@ twitter_username: torinotech
 github_username:  torinotech
 github: [metadata]
 
+plugins:
+  - data_page_generator
+
+page_gen:
+  - index_files: true
+    data: 'groups'
+    template: 'group'
+    name: 'slug'
+    dir: 'groups'
+
 sass:
   sass_dir: _sass
   style: :compressed
